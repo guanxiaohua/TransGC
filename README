@@ -8,5 +8,8 @@ The implementation is complete, but unfortunately the overhead is not acceptable
 but the performance is not as good as expected, that's why it's not published into a paper yet. But I would like to still share 
 this code just in case anyone is interested.
 
+Note that it's not the latest code, the date for the current repository is 2011-03-11-02-00 (from a previous automatic backup), 
+but I think in April I was still changing the code for the experiments. I will upload the latest one once I find out where it is.
+
 Xiaohua Guan
 2014/05/08
