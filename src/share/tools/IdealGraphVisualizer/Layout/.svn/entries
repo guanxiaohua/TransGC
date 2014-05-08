@@ -1,0 +1,58 @@
+8
+
+dir
+307
+svn+ssh://xguan@cse.unl.edu/net/frost/export/u2/xguan/svn/transgc/trunk/share/tools/IdealGraphVisualizer/Layout
+svn+ssh://xguan@cse.unl.edu/net/frost/export/u2/xguan/svn/transgc
+
+
+
+2010-11-03T19:38:59.569793Z
+9
+xguan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+314238d6-df85-11df-97e5-67a31fe6c0f1
+
+nbproject
+dir
+
+src
+dir
+
+manifest.mf
+file
+
+
+
+
+2010-11-03T03:02:08.000000Z
+2bb24629034311ea9cb8804831b67489
+2010-10-24T15:44:39.052607Z
+1
+xguan
+
+build.xml
+file
+
+
+
+
+2010-12-17T18:53:50.000000Z
+a4571691483ff90956ac090918d2d612
+2010-11-03T19:38:59.569793Z
+9
+xguan
+

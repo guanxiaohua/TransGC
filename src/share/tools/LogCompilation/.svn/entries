@@ -1,0 +1,67 @@
+8
+
+dir
+307
+svn+ssh://xguan@cse.unl.edu/net/frost/export/u2/xguan/svn/transgc/trunk/share/tools/LogCompilation
+svn+ssh://xguan@cse.unl.edu/net/frost/export/u2/xguan/svn/transgc
+
+
+
+2010-10-24T15:44:39.052607Z
+1
+xguan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+314238d6-df85-11df-97e5-67a31fe6c0f1
+
+src
+dir
+
+manifest.mf
+file
+
+
+
+
+2010-11-03T03:02:07.000000Z
+26526b123d60577d6ee1eb348d7e0afc
+2010-10-24T15:44:39.052607Z
+1
+xguan
+
+Makefile
+file
+
+
+
+
+2010-11-03T03:02:07.000000Z
+e0aacd27be61ffad5cae20d85405b567
+2010-10-24T15:44:39.052607Z
+1
+xguan
+
+README
+file
+
+
+
+
+2010-11-03T03:02:07.000000Z
+d46103c8388755bfcd54e4ef2a928b52
+2010-10-24T15:44:39.052607Z
+1
+xguan
+

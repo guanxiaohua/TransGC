@@ -1,0 +1,58 @@
+8
+
+dir
+307
+svn+ssh://xguan@cse.unl.edu/net/frost/export/u2/xguan/svn/transgc/trunk/share/tools/IdealGraphVisualizer/BatikSVGProxy
+svn+ssh://xguan@cse.unl.edu/net/frost/export/u2/xguan/svn/transgc
+
+
+
+2010-11-03T19:38:59.569793Z
+9
+xguan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+314238d6-df85-11df-97e5-67a31fe6c0f1
+
+nbproject
+dir
+
+src
+dir
+
+manifest.mf
+file
+
+
+
+
+2010-11-03T03:02:08.000000Z
+1537dc8f7a798dc8a332209615fe7356
+2010-10-24T15:44:39.052607Z
+1
+xguan
+
+build.xml
+file
+
+
+
+
+2010-12-17T18:53:50.000000Z
+acd1fc33e0005b6be2c4bb9968a6c9b2
+2010-11-03T19:38:59.569793Z
+9
+xguan
+

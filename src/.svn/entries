@@ -1,0 +1,40 @@
+8
+
+dir
+307
+svn+ssh://xguan@cse.unl.edu/net/frost/export/u2/xguan/svn/transgc/trunk
+svn+ssh://xguan@cse.unl.edu/net/frost/export/u2/xguan/svn/transgc
+
+
+
+2011-03-08T18:50:14.474683Z
+307
+xguan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+314238d6-df85-11df-97e5-67a31fe6c0f1
+
+os
+dir
+
+share
+dir
+
+cpu
+dir
+
+os_cpu
+dir
+

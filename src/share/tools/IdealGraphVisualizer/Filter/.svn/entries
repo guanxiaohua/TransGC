@@ -1,0 +1,58 @@
+8
+
+dir
+307
+svn+ssh://xguan@cse.unl.edu/net/frost/export/u2/xguan/svn/transgc/trunk/share/tools/IdealGraphVisualizer/Filter
+svn+ssh://xguan@cse.unl.edu/net/frost/export/u2/xguan/svn/transgc
+
+
+
+2010-11-03T19:38:59.569793Z
+9
+xguan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+314238d6-df85-11df-97e5-67a31fe6c0f1
+
+nbproject
+dir
+
+src
+dir
+
+manifest.mf
+file
+
+
+
+
+2010-11-03T03:02:07.000000Z
+28a007c7095ee3a45190f1b22f0d74dc
+2010-10-24T15:44:39.052607Z
+1
+xguan
+
+build.xml
+file
+
+
+
+
+2010-12-17T18:53:49.000000Z
+3f7784a4cdb938c530fe63993aff794a
+2010-11-03T19:38:59.569793Z
+9
+xguan
+

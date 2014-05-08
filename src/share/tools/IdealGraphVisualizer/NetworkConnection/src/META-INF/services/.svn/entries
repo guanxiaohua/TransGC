@@ -1,0 +1,40 @@
+8
+
+dir
+307
+svn+ssh://xguan@cse.unl.edu/net/frost/export/u2/xguan/svn/transgc/trunk/share/tools/IdealGraphVisualizer/NetworkConnection/src/META-INF/services
+svn+ssh://xguan@cse.unl.edu/net/frost/export/u2/xguan/svn/transgc
+
+
+
+2010-10-24T15:44:39.052607Z
+1
+xguan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+314238d6-df85-11df-97e5-67a31fe6c0f1
+
+com.sun.hotspot.igv.data.services.GroupReceiver
+file
+
+
+
+
+2010-11-03T03:02:08.000000Z
+5191bce44f72e029e2f27d5add3a9baf
+2010-10-24T15:44:39.052607Z
+1
+xguan
+
